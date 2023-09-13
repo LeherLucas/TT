@@ -1,0 +1,9 @@
+:root{
+   --cor-da-letra:white;
+   --outra-cor:rgb(56, 68, 57); 
+   --cor-do-botao:#211c1c;
+   --cor-de-fundo:blue;
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
