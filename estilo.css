@@ -2,8 +2,18 @@
    --cor-da-letra:white;
    --outra-cor:rgb(56, 68, 57); 
    --cor-do-botao:#211c1c;
-   --cor-de-fundo:blue;
+   --cor-de-fundo:rgb(155, 117, 48);
 }
 body{
     background-color: var(--cor-de-fundo);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height:100vh;
+}
+img{
+    width:350px;
 }
